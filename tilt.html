@@ -1,0 +1,37 @@
+<script type="text/javascript" src="swfobject.js"></script>
+<div id="flashcontent">TiltViewer requires JavaScript and the latest Flash player. <a href="http://www.macromedia.com/go/getflashplayer/">Get Flash here.</a></div>
+<script type="text/javascript">
+	var fo = new SWFObject("TiltViewer.swf", "viewer", "100%", "100%", "9.0.28", "#000000");			
+		
+	//FLICKR GALLERY OPTIONS
+	//fo.addVariable("useFlickr", "true");
+	//fo.addVariable("user_id", "48508968@N00");
+	//fo.addVariable("tags", "jump,smile");
+	//fo.addVariable("tag_mode", "all");
+	//fo.addVariable("showTakenByText", "true");			
+		
+	// XML GALLERY OPTIONS
+	fo.addVariable("useFlickr", "false");
+	fo.addVariable("xmlURL", "gallery.xml");
+	fo.addVariable("maxJPGSize","1000");
+		
+	//GENERAL OPTIONS		
+	fo.addVariable("useReloadButton", "false");
+	fo.addVariable("columns", "3");
+	fo.addVariable("rows", "3");
+	//fo.addVariable("showFlipButton", "true");
+	//fo.addVariable("showLinkButton", "true");		
+	fo.addVariable("linkLabel", "Package Download..");
+	//fo.addVariable("frameColor", "0xFF0000");
+	//fo.addVariable("backColor", "0xDDDDDD");
+	//fo.addVariable("bkgndInnerColor", "0xFF00FF");
+	//fo.addVariable("bkgndOuterColor", "0x0000FF");				
+	//fo.addVariable("langGoFull", "Go Fullscreen");
+	//fo.addVariable("langExitFull", "Exit Fullscreen");
+	//fo.addVariable("langAbout", "About");				
+		
+	// END TILTVIEWER CONFIGURATION OPTIONS
+	fo.addParam("allowFullScreen","true");
+	fo.write("flashcontent");			
+
+</script>	
