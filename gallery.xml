@@ -1,31 +1,32 @@
 <tiltviewergallery>
 	<photos>
-		<photo imageurl="imgs/WebHive.jpg" linkurl="https://github.com/recruitcojp/WebHive">
+		<photo imageurl="imgs/WebHive2.jpg" linkurl="https://github.com/recruitcojp/WebHive">
 			<title>WebHive</title>
 			<description>ブラウザよりHiveQLを実行できるWEBアプリケーション</description>
 		</photo>
-		<photo imageurl="imgs/preparation.jpg" linkurl="https://github.com/recruitcojp/">
+		<photo imageurl="imgs/knime2.png" linkurl="https://github.com/recruitcojp/knime-recselect">
+			<title>KNIMEアドオン</title>			
+			<description>マイニングツール(KNIME)の機能拡張</description>
+		</photo>
+		<photo imageurl="imgs/img.jpg" linkurl="https://github.com/recruitcojp/">
 			<title>準備中</title>			
 		</photo>
-		<photo imageurl="imgs/preparation.jpg" linkurl="https://github.com/recruitcojp/">
+		<photo imageurl="imgs/img.jpg" linkurl="https://github.com/recruitcojp/">
 			<title>準備中</title>			
 		</photo>
-		<photo imageurl="imgs/preparation.jpg" linkurl="https://github.com/recruitcojp/">
+		<photo imageurl="imgs/img.jpg" linkurl="https://github.com/recruitcojp/">
 			<title>準備中</title>			
 		</photo>
-		<photo imageurl="imgs/preparation.jpg" linkurl="https://github.com/recruitcojp/">
+		<photo imageurl="imgs/img.jpg" linkurl="https://github.com/recruitcojp/">
 			<title>準備中</title>			
 		</photo>
-		<photo imageurl="imgs/preparation.jpg" linkurl="https://github.com/recruitcojp/">
+		<photo imageurl="imgs/img.jpg" linkurl="https://github.com/recruitcojp/">
 			<title>準備中</title>			
 		</photo>
-		<photo imageurl="imgs/preparation.jpg" linkurl="https://github.com/recruitcojp/">
+		<photo imageurl="imgs/img.jpg" linkurl="https://github.com/recruitcojp/">
 			<title>準備中</title>			
 		</photo>
-		<photo imageurl="imgs/preparation.jpg" linkurl="https://github.com/recruitcojp/">
-			<title>準備中</title>			
-		</photo>
-		<photo imageurl="imgs/preparation.jpg" linkurl="https://github.com/recruitcojp/">
+		<photo imageurl="imgs/img.jpg" linkurl="https://github.com/recruitcojp/">
 			<title>準備中</title>			
 		</photo>
 	</photos>
