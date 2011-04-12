@@ -6,7 +6,7 @@
 		</photo>
 		<photo imageurl="imgs/knime2.png" linkurl="https://github.com/recruitcojp/knime-recselect">
 			<title>KNIMEアドオン</title>			
-			<description>マイニングツール(KNIME)の機能拡張</description>
+			<description>knimeのHadoop向け機能拡張</description>
 		</photo>
 		<photo imageurl="imgs/img.jpg" linkurl="https://github.com/recruitcojp/">
 			<title>準備中</title>			
