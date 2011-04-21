@@ -8,8 +8,9 @@
 			<title>KNIMEアドオン</title>			
 			<description>knimeのHadoop向け機能拡張</description>
 		</photo>
-		<photo imageurl="imgs/img.jpg" linkurl="https://github.com/recruitcojp/">
-			<title>準備中</title>			
+		<photo imageurl="imgs/hive_logo_medium2.jpg" linkurl="https://github.com/SCtoolsUDF">
+			<title>SCtoolsUDF</title>			
+			<description>Recruitで利用しているhiveユーザ定義関数（UDF）の中から汎用的なものをセレクト</description>
 		</photo>
 		<photo imageurl="imgs/img.jpg" linkurl="https://github.com/recruitcojp/">
 			<title>準備中</title>			
