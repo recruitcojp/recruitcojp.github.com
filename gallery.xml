@@ -1,5 +1,9 @@
 <tiltviewergallery>
 	<photos>
+		<photo imageurl="imgs/HiveODBC2.jpg" linkurl="https://github.com/recruitcojp/OdbcHive">
+			<title>ODBC Hive</title>
+			<description>Hive ODBC driver for Windows</description>
+		</photo>
 		<photo imageurl="imgs/WebHive2.jpg" linkurl="https://github.com/recruitcojp/WebHive">
 			<title>WebHive</title>
 			<description>ブラウザよりHiveQLを実行できるWEBアプリケーション</description>
@@ -12,11 +16,9 @@
 			<title>RCtoolsUDF</title>			
 			<description>Recruitで利用しているhiveユーザ定義関数（UDF）の中から汎用的なものをセレクト</description>
 		</photo>
-		<photo imageurl="imgs/img.jpg" linkurl="https://github.com/recruitcojp/">
-			<title>準備中</title>			
-		</photo>
-		<photo imageurl="imgs/img.jpg" linkurl="https://github.com/recruitcojp/">
-			<title>準備中</title>			
+		<photo imageurl="imgs/LogTrain2.jpg" linkurl="https://github.com/recruitcojp/LogTrain">
+			<title>LogTrain</title>	
+			<description>apacheアクセスログをリアルタイムでHDFS上に保存するツール</description>
 		</photo>
 		<photo imageurl="imgs/img.jpg" linkurl="https://github.com/recruitcojp/">
 			<title>準備中</title>			
